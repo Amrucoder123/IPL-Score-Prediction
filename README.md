@@ -62,8 +62,6 @@ Run all cells to generate `ml_model.pkl`
 streamlit run ipl_score_predictor.py
 ```
 
-The app will open in your browser at `http://localhost:8501`
-
 **Streamlit App:**
 python -m streamlit run ipl_score_predictor.py
 
